@@ -1,0 +1,13 @@
+.vscode/launch.json
+.vscode/tasks.json
+obj/a_sink_a_weight.csproj.nuget.dgspec.json
+obj/a_sink_a_weight.csproj.nuget.g.props
+obj/a_sink_a_weight.csproj.nuget.g.targets
+obj/project.assets.json
+obj/project.nuget.cache
+obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+obj/Debug/net5.0/a_sink_a_weight.AssemblyInfo.cs
+obj/Debug/net5.0/a_sink_a_weight.AssemblyInfoInputs.cache
+obj/Debug/net5.0/a_sink_a_weight.assets.cache
+obj/Debug/net5.0/a_sink_a_weight.csproj.AssemblyReference.cache
+obj/Debug/net5.0/a_sink_a_weight.GeneratedMSBuildEditorConfig.editorconfig
